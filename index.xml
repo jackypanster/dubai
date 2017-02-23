@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/index.xml</link>
+    <link>https://jackypanster.github.io/dubai/index.xml</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Feb 2017 19:49:26 +0800</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jackypanster.github.io/dubai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>dubai</title>
-      <link>http://example.org/dubai/</link>
+      <link>https://jackypanster.github.io/dubai/dubai/</link>
       <pubDate>Thu, 23 Feb 2017 19:49:26 +0800</pubDate>
       
-      <guid>http://example.org/dubai/</guid>
+      <guid>https://jackypanster.github.io/dubai/dubai/</guid>
       <description>
 
-&lt;h1 id=&#34;dubai&#34;&gt;dubai&lt;/h1&gt;
+&lt;h1 id=&#34;welcome&#34;&gt;welcome&lt;/h1&gt;
 </description>
     </item>
     
