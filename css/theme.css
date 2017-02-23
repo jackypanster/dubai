@@ -16,3 +16,8 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+img{
+  max-width: 1024px;
+  height: auto;
+}
